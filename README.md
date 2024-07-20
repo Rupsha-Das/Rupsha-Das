@@ -19,6 +19,6 @@ A passionate developer currently in my 2nd year of Computer Science Engineering.
 
 - [LinkedIn](https://www.linkedin.com/in/rupsha-das-b6b5a8253/)
 - [Twitter](https://x.com/das_rupsha18562)
-- 
+
 Feel free to reach out if you have any questions or projects in mind!
 
