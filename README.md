@@ -2,7 +2,7 @@
 
 I'm **Rupsha**,
 
-A passionate developer currently in my 2nd year of Computer Science Engineering. I specialize in frontend development, building user interfaces that are both functional and visually appealing.
+A passionate developer currently a pre-grad of Computer Science Engineering. I specialize in frontend development, building user interfaces that are both functional and visually appealing.
 
 ## 🔧 **Skills**
 
