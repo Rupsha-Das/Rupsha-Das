@@ -1,193 +1,148 @@
-# Hey there! 👋 I'm Rupsha Das
+<h1 align="center">Hi, I'm Rupsha Das</h1>
 
-### Full-Stack Developer | AI/ML Enthusiast | Hackathon Organizer | Builder
-
-I'm a Computer Science Engineering graduate who loves turning ideas into real-world products.
-
-I started my journey with frontend development and gradually expanded into **full-stack development, backend engineering, AI/ML, and product development**. I enjoy building things that are not only technically solid but also intuitive, scalable, and visually engaging.
-
-- 💻 Currently building full-stack applications and exploring AI-powered products
-- 🚀 Passionate about developer tools, AI/ML, and building products from scratch
-- 🧠 Strong foundation in DSA, OOP, DBMS, and Computer Science fundamentals
-- 🏆 Hackathon enthusiast and organizer
-- 🌱 Always learning, experimenting, and shipping
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science Engineering graduate
-- 💼 Experienced in **Frontend & Full-Stack Development**
-- 🔧 Worked with production-level applications, admin consoles, APIs and backend systems
-- 🤖 Exploring **AI/ML, embeddings, intelligent applications and on-device ML**
-- 🏗️ Love building products from idea → design → development → deployment
-- 👥 Actively involved in hackathons, developer communities and technical events
-- 🌐 Open to collaborating on interesting projects and open-source contributions
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+<p align="center">
+  <b>Software Engineer · Full-Stack Developer · AI/ML Enthusiast</b>
 </p>
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,materialui" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
-
-### Databases & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws" />
-</p>
-
-### AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-- TensorFlow.js
-- MediaPipe
-- Vector Embeddings
-- AI-powered applications
-- On-device ML
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/rupsha-das-b6b5a825/">LinkedIn</a>
+  ·
+  <a href="https://x.com/das_rupsha18562">X</a>
+  ·
+  <a href="mailto:your-email@example.com">Email</a>
 </p>
 
 ---
 
-## 💻 What I Build
+## About
 
-I enjoy working across the stack, including:
+Computer Science Engineering graduate focused on building reliable, scalable, and user-centric software.
 
-- ⚡ Modern React / Next.js applications
-- 🎨 Interactive and responsive UI/UX
-- 🔌 REST APIs and backend services
-- 🗄️ Database-driven applications
-- 🔐 Authentication and role-based systems
-- 📊 Admin dashboards and analytics platforms
-- 🤖 AI-powered tools
-- 🧠 Machine Learning applications
-- 📱 IoT + ML projects
-- 🚀 Hackathon projects and MVPs
+My experience spans **frontend development, backend engineering, AI/ML, and product development**. I enjoy working across the stack — from designing interfaces and building APIs to integrating intelligent systems and deploying production-ready applications.
+
+Currently interested in **full-stack engineering, backend systems, AI/ML applications, and scalable software architecture**.
 
 ---
 
-## 🌟 Featured Projects
+## Technical Skills
 
-### 🧠 SophistAI — Personal Syllabus Navigator
+**Languages**
 
-An AI-powered learning platform that transforms syllabus PDFs into an interactive learning experience.
+C · C++ · Java · Python · JavaScript · TypeScript
 
-**Features:**
-- 📄 Upload and extract syllabus from PDFs
-- 🗺️ Interactive knowledge map
-- 📚 Contextual learning resources
-- 📈 Smart progress tracking
-- 🔍 Deep Dive learning experience
-- 🤖 AI-powered educational assistance
+**Frontend**
 
-Built to make studying structured, interactive and personalized.
+React · Next.js · Redux · Tailwind CSS · Material UI
 
----
+**Backend**
 
-### 🧍 Po-Go — Posture Good
+Node.js · Express.js · NestJS · REST APIs
 
-An IoT + Machine Learning based posture detection and correction system.
+**Databases & Cloud**
 
-**Highlights:**
-- Real-time posture detection
-- RGB / Thermal camera integration
-- On-device ML processing
-- MediaPipe-based tracking
-- TensorFlow.js
-- Interactive dashboard
+MongoDB · MySQL · AWS
+
+**AI / ML**
+
+TensorFlow.js · MediaPipe · Vector Embeddings · AI Applications
+
+**Tools**
+
+Git · GitHub · VS Code · Figma · Postman
 
 ---
 
-### 🧤 Cogni-Glove
+## Experience
 
-A gesture and intent recognition glove built during a hardware hackathon.
+### Full-Stack Development
 
-The project combines hardware sensors with machine learning to interpret hand gestures and translate them into meaningful commands.
+Worked on production-oriented applications involving:
 
-🏆 **3rd Place — Hardware Track**
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Winner — MLH Diversion 2K25**
-- 🥉 **3rd Place — Status Code 1 Hackathon, Hardware Track**
-- 🚀 Built and launched **SophistAI**
-- 👩‍💻 Worked on production-level full-stack applications
-- 🎤 Organized and contributed to multiple hackathons and developer communities
-- 🌐 Contributed to growing developer communities and technical events
-
----
-
-## 💼 Experience
-
-### Full-Stack / Software Development
-
-Worked on real-world production systems involving:
-
-- React & Next.js applications
-- Node.js / Express backend services
-- REST APIs
-- MongoDB
-- Redux state management
-- Authentication & authorization
-- Role-based access control
-- Admin dashboards
-- Device management systems
-- Audit history & activity tracking
-- OTA / firmware management
+- Frontend development with React and Next.js
+- Backend services and REST APIs
+- Database design and integration
+- Authentication and role-based access control
+- Admin dashboards and analytics systems
+- Device management and monitoring systems
 - OTP-based verification
-- Data filtering and pagination
-- Analytics and raw-data systems
-
-I also worked across **frontend, backend and AI/ML tasks**, giving me experience with the complete product development lifecycle.
-
----
-
-## 🧩 Computer Science Fundamentals
-
-I enjoy solving problems and have a strong foundation in:
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- Problem Solving
+- Data filtering, pagination and export workflows
+- Audit and activity tracking
+- Firmware and OTA management
 
 ---
 
-## 🌱 Currently Learning
+## Selected Projects
 
-```text
-▸ Advanced Backend Development
-▸ System Design
-▸ AI/ML & LLM Applications
-▸ Vector Databases & Embeddings
-▸ Cloud & AWS
-▸ Scalable Web Architecture
-▸ Open Source Development
+### SophistAI
+
+An AI-powered personal syllabus navigator designed to transform static syllabus documents into an interactive learning experience.
+
+**Key features**
+
+- Syllabus PDF processing and extraction
+- Interactive knowledge mapping
+- Context-aware learning resources
+- Progress tracking
+- Deep-dive learning workflows
+- AI-assisted exploration
+
+---
+
+### Po-Go — Posture Good
+
+An IoT and machine-learning based posture monitoring system focused on real-time posture detection and correction.
+
+**Technologies**
+
+`MediaPipe` `TensorFlow.js` `JavaScript` `IoT` `Computer Vision`
+
+---
+
+### Cogni-Glove
+
+A gesture-intent recognition system combining hardware sensors and machine learning to interpret hand gestures.
+
+**Achievement:** 3rd Place — Hardware Track, Status Code 1 Hackathon
+
+---
+
+## Achievements
+
+- Winner — MLH Diversion 2K25
+- 3rd Place — Status Code 1 Hackathon, Hardware Track
+- Built and launched SophistAI
+- Experience developing production-level full-stack systems
+- Active contributor to hackathons and developer communities
+
+---
+
+## Areas of Interest
+
+- Full-Stack Engineering
+- Backend Development
+- System Design
+- Artificial Intelligence & Machine Learning
+- Developer Tools
+- Distributed & Scalable Systems
+- Open Source
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rupsha-Das&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupsha-Das&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</p>
+
+---
+
+## Let's Connect
+
+If you're interested in collaborating on a product, open-source project, or engineering problem, feel free to reach out.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rupsha-das-b6b5a825/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/das_rupsha18562">X</a>
+</p>
