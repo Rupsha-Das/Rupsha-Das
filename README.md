@@ -226,31 +226,10 @@ Strong foundation in:
 ---
 
 ## GitHub Statistics
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Rupsha-Das&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" 
+  <img
+    src="https://streak-stats.demolab.com?user=Rupsha-Das&hide_border=true&theme=transparent"
     height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupsha-Das&layout=compact&hide_border=true&theme=transparent" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Rupsha-Das&hide_border=true&theme=transparent" 
-  />
-</p>
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rupsha-Das&theme=github-compact&hide_border=true&area=true" 
   />
 </p>
 
